@@ -1,2 +1,2 @@
 # AC
-this project will print Hello, World!
+This project will print Hello, World! in python.
